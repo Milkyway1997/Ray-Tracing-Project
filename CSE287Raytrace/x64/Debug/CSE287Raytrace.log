@@ -1,0 +1,16 @@
+﻿  CapCylinder.cpp
+  Cylinder.cpp
+  Ellipsoid.cpp
+  Plane.cpp
+  Lab.cpp
+  QuadricSurface.cpp
+  RayTracer.cpp
+C:\Users\14260\OneDrive\Desktop\CSE287ProjectOneLiLiu\CSE287Raytrace\RayTracer.cpp(294,41): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+C:\Users\14260\OneDrive\Desktop\CSE287ProjectOneLiLiu\CSE287Raytrace\RayTracer.cpp(294,38): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+C:\Users\14260\OneDrive\Desktop\CSE287ProjectOneLiLiu\CSE287Raytrace\RayTracer.cpp(308,41): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+C:\Users\14260\OneDrive\Desktop\CSE287ProjectOneLiLiu\CSE287Raytrace\RayTracer.cpp(308,38): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+  Sphere.cpp
+  ImplictSurface.cpp
+  TextureCoordinateFunctions.cpp
+  Generating Code...
+  CSE287Raytrace.vcxproj -> C:\Users\14260\OneDrive\Desktop\CSE287ProjectOneLiLiu\x64\Debug\CSE287Raytrace.exe
