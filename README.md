@@ -1,7 +1,7 @@
 # Ray-Tracing-Project
 
 I completed this ray-tracing project back to the time when 
-I took the computer graphics course at Miami University in 2020. 
+I took the computer graphics course at Miami University in 2019. 
 
 To try this project, you can download the Ray-Tracing-Project
 folder and run the 'CSE287Raytrace.sln' file in Visual Studio 2019. 
