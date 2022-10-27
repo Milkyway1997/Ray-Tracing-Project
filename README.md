@@ -8,12 +8,19 @@ folder and run the 'CSE287Raytrace.sln' file in Visual Studio 2019.
 
 You will see the scenes shown in the screenshots folder. 
 Keys you can press to change the scene:
+
 -Recursion deep: 0-5
+
 -Lights: a, p, d, s
+
 -Reflecting Sky: y
+
 -Day Time: m
+
 -Night Time: n
+
 -Camera view: g, h, j
+
 -Antialiasing: z
 
 PS: Since this used a ray-tracing algorithm, 
