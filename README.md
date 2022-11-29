@@ -9,11 +9,17 @@ To try out this project, you can download the Ray-Tracing-Project folder and run
 
 You will see the many scenes as shown in the screenshots folder. Here are some keys you can press to change the scene:
 ➢ Recursion Deep: 0-5
+
 ➢ Lights ON/OFF: a, p, d, s
+
 ➢ Reflecting Sky ON/OFF: y
+
 ➢ Day Time: m
+
 ➢ Night Time: n
+
 ➢ Change Camera view: g, h, j
+
 ➢ Antialiasing: z
 
 PS: Since this project used the ray-tracing algorithm, running the program will be very laggy. 
