@@ -8,7 +8,7 @@ Scene:
 
 To try out this project, you can download the Ray-Tracing-Project folder and run the 'CSE287Raytrace.sln' file in Visual Studio 2019.
 
-You will see the many scenes as shown in the screenshots folder. Here are some keys you can press to change the scene:
+You will see many scenes as shown in the screenshots folder. Here are some keys you can press to change the scene:
 
 ➢ Recursion Deep: 0-5
 
